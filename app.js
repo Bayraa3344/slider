@@ -9,3 +9,7 @@ function change() {
     currentImg = 0;
   }
 }
+
+function goBack() {
+  window.history.back();
+}

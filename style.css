@@ -68,3 +68,14 @@
     height: 400px;
   }
 }
+
+.btn-2 {
+  width: 150px;
+  height: 60px;
+  background: steelblue;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
